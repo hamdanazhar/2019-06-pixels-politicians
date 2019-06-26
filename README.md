@@ -5,7 +5,7 @@ This repository includes data supporting the following article, published by WIR
 
 ## Data Overview
 From **June 11-22, 2019**, Wired analyzed the presence of Facebook pixels on the publicly available campaign websites of 535 US politicians using the publicly available Facebook Pixel Helper Chrome extension. We also made the minimum possible donation (usually $1) to 110 US politicians and analyzed the presence of Facebook pixels on each of the donation confirmation pages. Data from our analyses are available in the following three CSVs:
-- **us_senators_pixels.csv** contains data about the presence of Facebook pixels on the landing pages and donation confirmation pages of 99 sitting US senators
+- **us_senators_pixels.csv** contains data about the presence of Facebook pixels on the landing pages and donation confirmation pages of 99 sitting US senators to whom we were able to donate
 - **us_house_pixels.csv** contains data about the presence of Facebook pixels on the landing pages of 425 sitting members of the US House of Representatives whose campaign websites we were able to find
 - **us_presidential_candidates_pixels.csv** contains data about the presence of Facebook pixels on the landing pages and donation confirmation pages of 21 presidential candidates for the 2020 campaign
 
