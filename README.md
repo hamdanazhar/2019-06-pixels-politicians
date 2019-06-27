@@ -1,7 +1,7 @@
 # Analysis of Facebook Pixels and Politicians' Campaign Websites - WIRED
 
 This repository includes data supporting the following article, published by WIRED:
-- "TITLE TK" (June 26, 2019) — [WIRED](LINK TK)
+- "Politicians Don't Trust Facebook—Unless They're Campaigning" (June 26, 2019) — [WIRED](https://www.wired.com/story/facebook-privacy-candidates-pixel-campaigning)
 
 ## Data Overview
 From **June 11-22, 2019**, Wired analyzed the presence of Facebook pixels on the publicly available campaign websites of 535 US politicians using the publicly available Facebook Pixel Helper Chrome extension. We also made the minimum possible donation (usually $1) to 110 US politicians and analyzed the presence of Facebook pixels on each of the donation confirmation pages. Data from our analyses are available in the following three CSVs:
